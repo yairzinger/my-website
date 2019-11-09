@@ -1,0 +1,18 @@
+.SidebarItem {
+    text-decoration: none;
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    color: #8E8D8A;
+    text-shadow: 1px 1px 1px #000000;
+    text-align: center;
+    mix-blend-mode: multiply;
+    background-size: cover;
+    font-size: 18px;
+    font-family: Arial, serif;
+}
+
+.SidebarItem:hover {
+    color: white;
+    font-size: 20px;
+}

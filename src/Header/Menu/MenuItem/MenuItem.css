@@ -1,0 +1,12 @@
+.MenuItem {
+    text-align: center;
+    margin: 8px;
+    color: #8E8D8A;
+    border-radius: 20px;
+    padding: 12px;
+    /*text-shadow: 0 0 10px #FFFFFF;*/
+    border: #8E8D8A 2px solid;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+
+}

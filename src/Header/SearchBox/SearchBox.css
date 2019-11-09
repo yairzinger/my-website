@@ -1,0 +1,24 @@
+.SearchBox input {
+    position: relative;
+    height: 30px;
+    border: none;
+    border-radius: 20px 0 0 20px;
+    top: 2px;
+}
+
+.SearchBox label input {
+    width: 380px;
+    padding-left: 10px;
+}
+
+.SearchBox_button {
+    background: #D8C3A5;
+    border: none;
+    height: 30px;
+    width: 50px;
+    border-radius: 0 20px 20px 0;
+}
+
+.SearchBox_button img {
+    height: 25px;
+}
